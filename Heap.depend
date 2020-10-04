@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1509728732 source:c:\users\matheus\downloads\heap\heap\heap.c
+	<stdio.h>
+	<stdlib.h>
+	"heap.h"
+
+1509673003 c:\users\matheus\downloads\heap\heap\heap.h
+
+1509727441 source:c:\users\matheus\downloads\heap\heap\main.c
+	<stdio.h>
+	<stdlib.h>
+	"heap.h"
+
